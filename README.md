@@ -1,5 +1,7 @@
 # lbpcascade_animeface
 
+`检测图片中的面部，可用于头像生成`
+
 The face detector for anime/manga using OpenCV.
 
 Original release since 2011 at [OpenCVによるアニメ顔検出ならlbpcascade_animeface.xml](http://ultraist.hatenablog.com/entry/20110718/1310965532) (in Japanese)
